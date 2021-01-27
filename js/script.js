@@ -29,5 +29,4 @@ document.addEventListener('DOMContentLoaded', () => {
     modal('[data-modal]', '.modal', modalTimerId);
     calc();
     timer('.timer', '2021-08-29');
-
 });
